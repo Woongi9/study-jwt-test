@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92680788-6083-45f8-bb55-3009dbf4fa2a" name="Changes" comment=":wrench: Add Spring Security jwt - Failed" />
+    <list default="true" id="92680788-6083-45f8-bb55-3009dbf4fa2a" name="Changes" comment=":wrench: Add Spring Security jwt - Failed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +165,7 @@
       <workItem from="1677320309243" duration="629000" />
       <workItem from="1677320947061" duration="1818000" />
       <workItem from="1678609207348" duration="426000" />
-      <workItem from="1678611076656" duration="173000" />
+      <workItem from="1678611076656" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="fixed login directory_name">
       <created>1677321207881</created>
