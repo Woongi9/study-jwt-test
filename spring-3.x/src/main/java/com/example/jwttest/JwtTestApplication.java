@@ -1,0 +1,14 @@
+package com.example.jwttest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.core.env.AbstractEnvironment;
+
+@SpringBootApplication
+public class JwtTestApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JwtTestApplication.class, args);
+	}
+
+}
